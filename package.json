@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "puppeteer": "^24.5.0",
+    "type": "module"
+  }
+  
+}
+
+
+
